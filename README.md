@@ -52,4 +52,5 @@ Os componentes tem uma váriavel (API_URL) que recebem a url da API("http://loca
 
 ## Conclusão
 
-Este projeto é a segunda fase do projeto da diciplina de Desenvolvimento de Sistemas Frontend
+Este projeto foi desenvolvido como parte da disciplina Desenvolvimento de Sistemas Front-End, do curso de Análise e Desenvolvimento de Sistemas - PUCRS.
+O objetivo é praticar os fundamentos do React, implementar operações de CRUD e realizar chamadas a uma API externa.
